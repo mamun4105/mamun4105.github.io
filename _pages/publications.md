@@ -3,9 +3,6 @@ permalink: /publications/
 title: "About Saleh"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 1.  **Mamun, S.**, Horn, B.P., & Chermak, J.M. (2020) "[Private vs. Public Prisons? A Dynamic Analysis of the Long-Term Tradeoffs Between Cost and Recidivism Efficiency in the US Prison System](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F00036846.2020.1736501&sa=D&sntz=1&usg=AOvVaw1XaTX9snaSpiKIBQKPC-zs)" Applied Economics. doi: [https://doi.org/10.1080/00036846.2020.1736501](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F00036846.2020.1736501&sa=D&sntz=1&usg=AOvVaw1XaTX9snaSpiKIBQKPC-zs)
     
