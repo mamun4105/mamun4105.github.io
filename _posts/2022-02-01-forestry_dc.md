@@ -1,7 +1,7 @@
 ---
 title: 'Forest Ecosystem Services Valuation: A Choice Experiment Approach'
 date: 2022-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/forestry_dc/
 tags:
   - choice experiment
   - non-market valuation

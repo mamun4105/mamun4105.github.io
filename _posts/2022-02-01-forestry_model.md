@@ -1,7 +1,7 @@
 ---
 title: 'Spatially explicit global current and potential forestry production value'
 date: 2022-02-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/forestry_model/
 tags:
   - modeling
   - economic value

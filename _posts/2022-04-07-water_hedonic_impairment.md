@@ -1,7 +1,7 @@
 ---
 title: '‘Pale Blue Dot’: Nationwide Waterbody Impairment and Property Value'
 date: 2022-04-07
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2012/08/water_hedonic_impairment/
 tags:
   - hedonic
   - non-market valuation
