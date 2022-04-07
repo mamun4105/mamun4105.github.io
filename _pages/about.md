@@ -11,3 +11,5 @@ Saleh Mamun is a Postdoctoral Associate at the [University of Minnesota](https:/
 
 He earned his Ph.D. in Economics from the University of New Mexico and an MBA in Finance from the Institute of Business Administration, University of Dhaka. He worked six years in construction, marketing, and government in Bangladesh. He has experience in research on environmental issues from business, development, and engineering perspective.
 
+[![](/images/download_cv.png)](/files/Saleh_CV.pdf){:target="_blank"}
+
