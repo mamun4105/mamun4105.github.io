@@ -85,7 +85,7 @@ author:
   bio              : "Economist | Educator | Data Scientist"
   location         : "University of Minnesota"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iEUMZPzBI94C&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Saleh-Mamun"
