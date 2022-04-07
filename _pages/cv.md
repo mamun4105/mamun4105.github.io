@@ -23,5 +23,5 @@ Education
 * MBA in Finance, Institute of Business Administration, University of Dhaka, 2010
 * B.Sc. in Civil Engineering, Bangladesh University of Engineering and Technology, 2006
 
-<center>[![](/images/download_cv.png)](/files/Saleh_CV.pdf){:target="_blank"}</center>
+->[![](/images/download_cv.png)](/files/Saleh_CV.pdf){:target="_blank"}<-
 
