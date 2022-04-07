@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /
     
+  - title: "Current Research"
+    url: /research_blog/
+    
   - title: "Publications"
     url: /publications/   
 
   - title: "Teaching"
     url: /teaching/
-        
-  - title: "Current Research"
-    url: /research_blog/
     
   - title: "CV"
     url: /cv/
