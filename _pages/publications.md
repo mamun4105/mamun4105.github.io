@@ -17,7 +17,7 @@ author_profile: true
 2.  Roni, M.S., Chowdhury, S., **Mamun, S.**, Marufuzzaman, M., Lein, W., & Johnson, S. (2017). "[Biomass Co-Firing Technology with Policies, Challenges, and Opportunities: A Global Review](https://doi.org/10.1016/j.rser.2017.05.023){:target="_blank"}". Renewable & Sustainable Energy Reviews, 78, 1089-1101. doi: [https://doi.org/10.1016/j.rser.2017.05.023](https://doi.org/10.1016/j.rser.2017.05.023){:target="_blank"}
     
 1.  Roni, M. S., Eksioglu, S. D., Jin, M., & **Mamun, S.** (2016). "[A hybrid inventory policy with split delivery under regular and surge demand](https://doi.org/10.1016/j.ijpe.2015.11.015){:target="_blank"}". International Journal of Production Economics, 172, 126-136. doi: [https://doi.org/10.1016/j.ijpe.2015.11.015](https://doi.org/10.1016/j.ijpe.2015.11.015){:target="_blank"}
-
+{: reversed="reversed"}
 Papers under review
 ======
 8. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Energy Economics**)
@@ -25,7 +25,7 @@ Papers under review
 9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (submitted to **PloS One**)
 
 10. Polasky, S., Johnson, J.A., Bo, H., Dampha, N.K., Kula, L.; Long, Y., **Mamun, S.**, Maldonado, L., Strombom, E., & Takrar, S., "The Dasgupta Review: Biodiversity Loss, Potential Solutions, and the Big Lift for Transformative Change" (submitted to **Environmental and Resource Economics**)
-
+{: reversed="reversed"}
 Working papers
 ======
 11. "[Estimating the impact of Critical Habitat designation on the values of undeveloped lots and houses](https://digitalcommons.bowdoin.edu/cgi/viewcontent.cgi?article=1017&context=econpapers){:target="_blank"} (preparing for **Nature Sustainability** with Nelson, E.J., & Nolte, C.)
@@ -41,3 +41,4 @@ Working papers
 16. "[Spatial tradeoff between economic goods and ecosystem services: A case of the oil and gas industry](https://pages.uoregon.edu/cameron/AERE-WEAI-2021/p_Broadbent.pdf){:target="_blank"}" (preparing for **Applied Economics** with Broadbent, C., Bernknopf, R.)
 
 17. "Forest Ecosystem Services Valuation: A Choice Experiment Approach" (preparing for **Forest Policy and Economics** with McIntosh, C. R., Poalsky, S.)
+{: reversed="reversed"}
