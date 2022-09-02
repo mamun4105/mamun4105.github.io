@@ -21,26 +21,33 @@ author_profile: true
 
 Papers under review
 ======
-8. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Energy Economics**)
+8. **Mamun, S.**, Castillo, A., Swedberg, K., Zhang, J., Andarge, T., Boyle, K., Cardoso, D., Keiser, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Valuing water quality in the US using a national data set on property values". (**Revise and Resubmit** at **Proceedings of the National Academy of Sciences** with )
 
-9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (submitted to **PloS One**)
+9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (**Revise and Resubmit** at **PloS One**)
 
-10. Polasky, S., Johnson, J.A., Bo, H., Dampha, N.K., Kula, L.; Long, Y., **Mamun, S.**, Maldonado, L., Strombom, E., & Takrar, S., "The Dasgupta Review: Biodiversity Loss, Potential Solutions, and the Big Lift for Transformative Change" (submitted to **Environmental and Resource Economics**)
+10. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Energy Economics**)
+
 {: reversed="reversed"}
 
 Working papers
 ======
-11. "[Estimating the impact of Critical Habitat designation on the values of undeveloped lots and houses](https://digitalcommons.bowdoin.edu/cgi/viewcontent.cgi?article=1017&context=econpapers){:target="_blank"} (preparing for **Nature Sustainability** with Nelson, E.J., & Nolte, C.)
+11. "[Nationwide lake impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management** with Nolte, C., & Polasky, S. )
 
-12. "[Pale Blue Dot: Nationwide water impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management** with Nolte, C., & Polasky, S. )
+12. "Improving land use and management to achieve multiple environmental and economic objectives" (preparing for **Nature** with Polasky, S., Hawthorne, P., Chaplin-Kramer, R., Gerber, J., Ruckelshaus, M., Russ, J., Schmitt, R., Smith, J., Vogl, A., Brauman, K., Chang, J., Charette-Castonguay, A., Daily, G., Douglass, J., Fay, M., Heger, M., Holden, M., Johnson, J., Khan, A., Kowal, G., Madden, I., Mandle, L., McDonald-Madden, E., Narain, U., Ouedraogo, I., Ruta, G., Rosa, L., Sohngen, B., West, P., Wolny, S., Zaveri, E. D., Damania, R.)
 
-13. "Valuing water quality in the US using a national data set on property values". (preparing for **Proceedings of the National Academy of Sciences** with Castillo, A., Swedberg, K., Zhang, J., Andarge, T., Boyle, K., Cardoso, D., Keiser, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. )
+13. Nature-based solutions to reduce integrated climate risk". (preparing for **Science** with Dampha, N.K., Ricketts, T., Luers, A., & Polasky, S.,)
 
-14. "Natural Capital Index (NCI)" (preparing for **Nature** with Polasky, S., Daily, G., & their lab members)
+14. "Conserving Nature Requires Metrics, Policies, and Money" (preparing for **Ecological Economics** with Polasky, S., Johnson, J.A., Bo, H., Dampha, N.K., Kula, L.; Long, Y., Maldonado, L., Strombom, E., & Takrar, S.)
 
-15. "Global current and potential forestry return maps". (preparing for **Environmental Research Letters** with Sohngen, B., Smith, J., & Polasky, S.)
+15. "[Estimating the impact of Critical Habitat designation on the values of undeveloped lots and houses](https://digitalcommons.bowdoin.edu/cgi/viewcontent.cgi?article=1017&context=econpapers){:target="_blank"} (preparing for **Land Economics** with Nelson, E.J., & Nolte, C.)
 
-16. "[Spatial tradeoff between economic goods and ecosystem services: A case of the oil and gas industry](https://pages.uoregon.edu/cameron/AERE-WEAI-2021/p_Broadbent.pdf){:target="_blank"}" (preparing for **Applied Economics** with Broadbent, C., Bernknopf, R.)
+16. "Global gridded scenarios of fertilizer impacts on human and freshwater health" (with Schmitt,R., Madden, I., Kowal,G., Douglas,J., Hawthorne, P., Gerber, J., Brauman, K., Daily, G., Johnson, J., Mandle, L., Ouedraogo,I., Ekatpure, A. R., Ruckelshaus, M., Smith, J., Polasky, S., Vogl, A., Chaplin-Kramer, B.)
 
-17. "Forest Ecosystem Services Valuation: A Choice Experiment Approach" (preparing for **Forest Policy and Economics** with McIntosh, C. R., Poalsky, S.)
+17. "Global current and potential forestry return maps". (preparing for **Environmental Research Letters** with Sohngen, B., Smith, J., & Polasky, S.)
+
+18. "Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality". (preparing for **Land Economics** with Castillo, A., Swedberg, K., Zhang, J., Boyle, K., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S.)
+
+19. "Forest Ecosystem Services Valuation: A Choice Experiment Approach" (preparing for **Forest Policy and Economics** with McIntosh, C. R., Poalsky, S.)
+
+20. "[Spatial tradeoff between economic goods and ecosystem services: A case of the oil and gas industry](https://pages.uoregon.edu/cameron/AERE-WEAI-2021/p_Broadbent.pdf){:target="_blank"}" (preparing for **Applied Economics** with Broadbent, C., Bernknopf, R.)
 {: reversed="reversed"}
