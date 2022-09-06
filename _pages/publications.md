@@ -21,7 +21,7 @@ author_profile: true
 
 Papers under review
 ======
-8. **Mamun, S.**, Castillo, A., Swedberg, K., Zhang, J., Andarge, T., Boyle, K., Cardoso, D., Keiser, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Valuing water quality in the US using a national data set on property values". (**Revise and Resubmit** at **Proceedings of the National Academy of Sciences** with )
+8. **Mamun, S.**, Castillo, A., Swedberg, K., Zhang, J., Andarge, T., Boyle, K., Cardoso, D., Keiser, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Valuing water quality in the US using a national data set on property values". (**Revise and Resubmit** at **Proceedings of the National Academy of Sciences**)
 
 9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (**Revise and Resubmit** at **PloS One**)
 
