@@ -88,7 +88,7 @@ author:
   email            : "salmamun@d.umn.edu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iEUMZPzBI94C&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Saleh-Mamun"
+  researchgate     : # "https://www.researchgate.net/profile/Saleh-Mamun"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0473-2957"
+  orcid            : # "https://orcid.org/0000-0003-0473-2957"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
