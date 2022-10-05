@@ -25,29 +25,32 @@ Papers under review
 
 9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (**Revise and Resubmit** at **PloS One**)
 
-10. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Energy Economics**)
+10. **Mamun, S.**, Nelson, E.J., & Nolte, C. "[Estimating the impact of critical-habitat designation on the values of developed and undeveloped Parcels](https://www.thecgo.org/research/estimating-the-impact-of-critical-habitat-designation-on-the-values-of-developed-and-undeveloped-parcels/){:target="_blank"} (submitted to **Land Economics** ZTRAX Special Issue)
+
+11. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Environmental and Resource Economics**)
+
+12. Swedberg, K., Cardoso, D., Castillo, A., **Mamun, s.**, Boyle, K., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality". (submitted to **Land Economics** ZTRAX Special Issue)
 
 {: reversed="reversed"}
 
 Working papers
 ======
-11. "[Nationwide lake impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management** with Nolte, C., & Polasky, S. )
+13. **Mamun, s.**, Nolte, C., & Polasky, S. "[Nationwide lake impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management**)
 
-12. "Improving land use and management to achieve multiple environmental and economic objectives" (preparing for **Nature** with Polasky, S., Hawthorne, P., Chaplin-Kramer, R., Gerber, J., Ruckelshaus, M., Russ, J., Schmitt, R., Smith, J., Vogl, A., Brauman, K., Chang, J., Charette-Castonguay, A., Daily, G., Douglass, J., Fay, M., Heger, M., Holden, M., Johnson, J., Khan, A., Kowal, G., Madden, I., Mandle, L., McDonald-Madden, E., Narain, U., Ouedraogo, I., Ruta, G., Rosa, L., Sohngen, B., West, P., Wolny, S., Zaveri, E. D., Damania, R.)
+14. **Mamun, s.**, Dampha, N.K., Ricketts, T., Luers, A., & Polasky, S. "Nature-based solutions to reduce integrated climate risk". (preparing for **Science** )
 
-13. Nature-based solutions to reduce integrated climate risk". (preparing for **Science** with Dampha, N.K., Ricketts, T., Luers, A., & Polasky, S.,)
+15. **Mamun, s.**, Sohngen, B., Smith, J., & Polasky, S. "Global current and potential forestry return maps". (preparing for **Forest Policy and Economics**)
 
-14. "Conserving Nature Requires Metrics, Policies, and Money" (preparing for **Ecological Economics** with Polasky, S., Johnson, J.A., Bo, H., Dampha, N.K., Kula, L.; Long, Y., Maldonado, L., Strombom, E., & Takrar, S.)
+16. **Mamun, s.**, McIntosh, C. R., & Poalsky, S. "Forest Ecosystem Services Valuation: A Choice Experiment Approach" (preparing for **Society and Natural Resources** )
 
-15. "[Estimating the impact of Critical Habitat designation on the values of undeveloped lots and houses](https://digitalcommons.bowdoin.edu/cgi/viewcontent.cgi?article=1017&context=econpapers){:target="_blank"} (preparing for **Land Economics** with Nelson, E.J., & Nolte, C.)
+17. Broadbent, C., Bernknopf, R., & **Mamun, s.** "[Spatial tradeoff between economic goods and ecosystem services: A case of the oil and gas industry](https://pages.uoregon.edu/cameron/AERE-WEAI-2021/p_Broadbent.pdf){:target="_blank"}" (preparing for **Applied Economics**)
+{: reversed="reversed"}
 
-16. "Global gridded scenarios of fertilizer impacts on human and freshwater health" (with Schmitt,R., Madden, I., Kowal,G., Douglas,J., Hawthorne, P., Gerber, J., Brauman, K., Daily, G., Johnson, J., Mandle, L., Ouedraogo,I., Ekatpure, A. R., Ruckelshaus, M., Smith, J., Polasky, S., Vogl, A., Chaplin-Kramer, B.)
+Papers in preparation
+======
+18. "Improving land use and management to achieve multiple environmental and economic objectives" (preparing for **Nature** with Polasky, S., Hawthorne, P., Chaplin-Kramer, R., Gerber, J., Ruckelshaus, M., Russ, J., Schmitt, R., Smith, J., Vogl, A., Brauman, K., Chang, J., Charette-Castonguay, A., Daily, G., Douglass, J., Fay, M., Heger, M., Holden, M., Johnson, J., Khan, A., Kowal, G., Madden, I., Mandle, L., McDonald-Madden, E., Narain, U., Ouedraogo, I., Ruta, G., Rosa, L., Sohngen, B., West, P., Wolny, S., Zaveri, E. D., Damania, R.)	
 
-17. "Global current and potential forestry return maps". (preparing for **Environmental Research Letters** with Sohngen, B., Smith, J., & Polasky, S.)
+19. "Conserving Nature Requires Metrics, Policies, and Money" (preparing for **Ecological Economics** with Polasky, S., Johnson, J.A., Bo, H., Dampha, N.K., Kula, L.; Long, Y., Maldonado, L., Strombom, E., \& Takrar, S.)
 
-18. "Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality". (preparing for **Land Economics** with Castillo, A., Swedberg, K., Zhang, J., Boyle, K., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S.)
-
-19. "Forest Ecosystem Services Valuation: A Choice Experiment Approach" (preparing for **Forest Policy and Economics** with McIntosh, C. R., Poalsky, S.)
-
-20. "[Spatial tradeoff between economic goods and ecosystem services: A case of the oil and gas industry](https://pages.uoregon.edu/cameron/AERE-WEAI-2021/p_Broadbent.pdf){:target="_blank"}" (preparing for **Applied Economics** with Broadbent, C., Bernknopf, R.)
+20. "Global gridded scenarios of fertilizer impacts on human and freshwater health" (with Schmitt, R., Madden, I., Kowal, G., Douglas, J., Hawthorne, P., Gerber, J., Brauman, K., Daily, G., Johnson, J., Mandle, L., Ouedraogo, I., Ekatpure, A. R., Ruckelshaus, M., Smith, J., Polasky, S., Vogl, A., Chaplin-Kramer, B.)
 {: reversed="reversed"}
