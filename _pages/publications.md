@@ -23,21 +23,21 @@ Papers under review
 ======
 8. **Mamun, S.**, Castillo, A., Swedberg, K., Zhang, J., Andarge, T., Boyle, K., Cardoso, D., Keiser, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Valuing water quality in the US using a national data set on property values". (**Revise and Resubmit** at **Proceedings of the National Academy of Sciences**)
 
-9. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (**Revise and Resubmit** at **PloS One**)
+9. **Mamun, s.**, Dampha, N.K., Ricketts, T., Luers, A., & Polasky, S. "Investing in nature’s contribution to climate solutions". (submitted to **Science** )
 
-10. **Mamun, S.**, Nelson, E.J., & Nolte, C. "[Estimating the impact of critical-habitat designation on the values of developed and undeveloped Parcels](https://www.thecgo.org/research/estimating-the-impact-of-critical-habitat-designation-on-the-values-of-developed-and-undeveloped-parcels/){:target="_blank"} (submitted to **Land Economics** ZTRAX Special Issue)
+10. Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C.M., Guignet, G., Hennighausen, H., Kushner, I., Liao,Y., **Mamun, S.**,, Pollack, A., Richardson, J., Sundquist,S., Swedberg, K., & Uhl, J.H., "[Studying the Impacts of Environmental Amenities and Hazards with Nationwide Property Data: Best Data Practices for Interpretable and Reproducible Analyses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900806){:target="_blank"}" (**Revise and Resubmit** at **PloS One**)
 
-11. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Environmental and Resource Economics**)
+11. **Mamun, S.**, Nelson, E.J., & Nolte, C. "[Estimating the impact of critical-habitat designation on the values of developed and undeveloped Parcels](https://www.thecgo.org/research/estimating-the-impact-of-critical-habitat-designation-on-the-values-of-developed-and-undeveloped-parcels/){:target="_blank"} (submitted to **Land Economics** ZTRAX Special Issue)
 
-12. Swedberg, K., Cardoso, D., Castillo, A., **Mamun, s.**, Boyle, K., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality". (submitted to **Land Economics** ZTRAX Special Issue)
+12. **Mamun, S.**, Mamkhezri, J., & Chermak, J.M., "Willingness to Pay for Renewable Portfolio Standard: A Discrete Choice Experiment Study" (submitted to **Environmental and Resource Economics**)
+
+13. Swedberg, K., Cardoso, D., Castillo, A., **Mamun, s.**, Boyle, K., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D., & Polasky, S. "Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality". (submitted to **Land Economics** ZTRAX Special Issue)
 
 {: reversed="reversed"}
 
 Working papers
 ======
-13. **Mamun, s.**, Nolte, C., & Polasky, S. "[Nationwide lake impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management**)
-
-14. **Mamun, s.**, Dampha, N.K., Ricketts, T., Luers, A., & Polasky, S. "Nature-based solutions to reduce integrated climate risk". (preparing for **Science** )
+14. **Mamun, s.**, Nolte, C., & Polasky, S. "[Nationwide lake impairment and property values](https://drive.google.com/file/d/11NPXzSBrv3nQDShWxjn6lhLSDAEXhTit){:target="_blank"}". (Job Market Paper, preparing for **Journal of Environmental Economics and Management**)
 
 15. **Mamun, s.**, Sohngen, B., Smith, J., & Polasky, S. "Global current and potential forestry return maps". (preparing for **Forest Policy and Economics**)
 
