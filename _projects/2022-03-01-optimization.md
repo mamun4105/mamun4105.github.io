@@ -1,6 +1,6 @@
 ---
 title: 'Spatial Optimization of Earth-Economy Dichotomy'
-date: 2019-08-01
+date: 2023-08-02
 permalink: /posts/2019/10/optimization/
 tags:
   - optimization

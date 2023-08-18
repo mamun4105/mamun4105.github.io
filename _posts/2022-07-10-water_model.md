@@ -1,7 +1,7 @@
 ---
 title: 'Global gridded scenarios of fertilizer impacts on human and freshwater health '
 date: 2022-07-10
-permalink: /posts/2012/08/energy_dc/
+permalink: /posts/2012/08/water_model/
 tags:
   - water
   - integrated model
