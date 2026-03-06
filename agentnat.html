@@ -5,67 +5,95 @@ permalink: /agentnat.html
 ---
 
 <style>
-    .page__content {
-        padding: 0 !important;
-        margin: 0 !important;
-    }
-    .agentnat-container {
-        width: 100%;
-        height: calc(100vh - 80px);
-        margin: 0;
-        padding: 0;
-        position: relative;
-    }
-    .agentnat-container iframe {
-        width: 100%;
-        height: 100%;
-        border: none;
-    }
-    .fallback-message {
-        display: none;
+    .agentnat-launch {
         text-align: center;
-        padding: 50px 20px;
-        background: #f5f5f5;
-        border-radius: 10px;
-        margin: 20px;
+        padding: 80px 20px;
+        max-width: 800px;
+        margin: 0 auto;
     }
-    .fallback-message a {
+    .agentnat-launch h1 {
+        color: #333;
+        margin-bottom: 20px;
+    }
+    .agentnat-launch p {
+        font-size: 1.2em;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 30px;
+    }
+    .launch-button {
         display: inline-block;
-        background: #667eea;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
-        padding: 15px 30px;
-        border-radius: 5px;
+        padding: 20px 50px;
+        border-radius: 50px;
         text-decoration: none;
-        margin-top: 20px;
+        font-weight: bold;
+        font-size: 1.3em;
+        box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .launch-button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
+        color: white;
+        text-decoration: none;
+    }
+    .features {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 30px;
+        margin-top: 60px;
+        text-align: left;
+    }
+    .feature-card {
+        background: #f8f9fa;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    .feature-card h3 {
+        color: #667eea;
+        margin-top: 0;
+    }
+    .browser-note {
+        margin-top: 40px;
+        padding: 20px;
+        background: #fff3cd;
+        border-left: 4px solid #ffc107;
+        border-radius: 5px;
+        text-align: left;
     }
 </style>
 
-<div class="agentnat-container">
-    <iframe 
-        src="https://mamun4105-natrag.hf.space" 
-        title="AgentNat - InVEST Assistant"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        loading="lazy"
-    ></iframe>
-    <div class="fallback-message" id="fallback">
-        <h2>Unable to load AgentNat</h2>
-        <p>If the application doesn't load above, you can access it directly:</p>
-        <a href="https://mamun4105-natrag.hf.space" target="_blank">Open AgentNat in New Tab</a>
+<div class="agentnat-launch">
+    <h1>🌿 AgentNat - Your InVEST Assistant 🤖</h1>
+    <p>
+        AgentNat is an AI-powered assistant designed to help researchers and practitioners work with InVEST 
+        (Integrated Valuation of Ecosystem Services and Tradeoffs). Get guidance on ecosystem service modeling, 
+        troubleshoot issues, and make natural capital assessment more accessible.
+    </p>
+    
+    <a href="https://mamun4105-natrag.hf.space" target="_blank" class="launch-button">
+        🚀 Launch AgentNat
+    </a>
+    
+    <div class="features">
+        <div class="feature-card">
+            <h3>💡 Expert Guidance</h3>
+            <p>Get help with InVEST models, parameters, and best practices for ecosystem service assessment.</p>
+        </div>
+        <div class="feature-card">
+            <h3>🔧 Troubleshooting</h3>
+            <p>Solve issues quickly with AI-powered assistance for error messages and model configuration.</p>
+        </div>
+        <div class="feature-card">
+            <h3>📚 Learning Resource</h3>
+            <p>Learn about natural capital modeling and InVEST workflows interactively.</p>
+        </div>
+    </div>
+    
+    <div class="browser-note">
+        <strong>Note:</strong> AgentNat will open in a new tab. Make sure to allow pop-ups if prompted by your browser.
     </div>
 </div>
-
-<script>
-    // Check if iframe loads, show fallback if not
-    setTimeout(function() {
-        var iframe = document.querySelector('.agentnat-container iframe');
-        try {
-            if (!iframe.contentWindow) {
-                document.getElementById('fallback').style.display = 'block';
-            }
-        } catch(e) {
-            // Cross-origin error is expected, so iframe is likely loading
-        }
-    }, 3000);
-</script>
