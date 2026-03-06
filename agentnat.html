@@ -14,14 +14,58 @@ permalink: /agentnat.html
         height: calc(100vh - 80px);
         margin: 0;
         padding: 0;
+        position: relative;
     }
     .agentnat-container iframe {
         width: 100%;
         height: 100%;
         border: none;
     }
+    .fallback-message {
+        display: none;
+        text-align: center;
+        padding: 50px 20px;
+        background: #f5f5f5;
+        border-radius: 10px;
+        margin: 20px;
+    }
+    .fallback-message a {
+        display: inline-block;
+        background: #667eea;
+        color: white;
+        padding: 15px 30px;
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 20px;
+    }
 </style>
 
 <div class="agentnat-container">
-    <iframe src="https://mamun4105-natrag.hf.space" title="AgentNat - InVEST Assistant"></iframe>
+    <iframe 
+        src="https://mamun4105-natrag.hf.space" 
+        title="AgentNat - InVEST Assistant"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+        loading="lazy"
+    ></iframe>
+    <div class="fallback-message" id="fallback">
+        <h2>Unable to load AgentNat</h2>
+        <p>If the application doesn't load above, you can access it directly:</p>
+        <a href="https://mamun4105-natrag.hf.space" target="_blank">Open AgentNat in New Tab</a>
+    </div>
 </div>
+
+<script>
+    // Check if iframe loads, show fallback if not
+    setTimeout(function() {
+        var iframe = document.querySelector('.agentnat-container iframe');
+        try {
+            if (!iframe.contentWindow) {
+                document.getElementById('fallback').style.display = 'block';
+            }
+        } catch(e) {
+            // Cross-origin error is expected, so iframe is likely loading
+        }
+    }, 3000);
+</script>
