@@ -20,8 +20,8 @@ When Saleh is not crunching data or researching to save the world, he loves to p
   <p style="font-size: 1.1em; line-height: 1.6; margin: 15px 0;">
     AgentNat is an AI-powered assistant designed to help researchers and practitioners work with InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs). It provides guidance on ecosystem service modeling, helps troubleshoot issues, and makes natural capital assessment more accessible to everyone.
   </p>
-  <a href="/agentnat.html" style="display: inline-block; background: white; color: #667eea; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.2s;">
-    Launch AgentNat
+  <a href="/agentnat/" style="display: inline-block; background: white; color: #667eea; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.2s;">
+    🚀 Launch AgentNat
   </a>
 </div>
 
