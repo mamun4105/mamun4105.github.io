@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "AgentNat"
+    url: /agentnat.html
     
   - title: "CV"
     url: /cv/

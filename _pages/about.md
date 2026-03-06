@@ -13,5 +13,19 @@ He earned his Ph.D. in Economics from the University of New Mexico. He worked si
 
 When Saleh is not crunching data or researching to save the world, he loves to play badminton and to (failed) attempt standup comedy!
 
+---
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; text-align: center; color: white; box-shadow: 0 10px 25px rgba(0,0,0,0.2); margin: 20px 0;">
+  <h2 style="color: white; margin-top: 0;">Try AgentNat - Your InVEST Assistant</h2>
+  <p style="font-size: 1.1em; line-height: 1.6; margin: 15px 0;">
+    AgentNat is an AI-powered assistant designed to help researchers and practitioners work with InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs). It provides guidance on ecosystem service modeling, helps troubleshoot issues, and makes natural capital assessment more accessible to everyone.
+  </p>
+  <a href="/agentnat.html" style="display: inline-block; background: white; color: #667eea; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.2s;">
+    Launch AgentNat
+  </a>
+</div>
+
+---
+
 [![](/images/download_cv.png)](/files/Saleh_CV.pdf){:target="_blank"}
 
