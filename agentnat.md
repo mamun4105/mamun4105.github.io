@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AgentNat - InVEST Assistant"
-permalink: /agentnat.html
+permalink: /agentnat/
 ---
 
 <style>
