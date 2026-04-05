@@ -187,7 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-
+  badminton:
+    output: true
+    permalink: /badminton/:path/
 
 # Defaults
 defaults:
@@ -222,6 +224,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _badminton
+  - scope:
+      path: ""
+      type: badminton
     values:
       layout: single
       author_profile: true
@@ -309,3 +320,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
