@@ -9,5 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Badminton"
+    url: /badminton/
+
   - title: "AgentNat"
     url: /agentnat
