@@ -22,7 +22,7 @@ Finally, the thank-you part! I couldn't have done this without the support of th
 
 I have gathered two trophies so far this year. I am dedicating one for each of my sons. And of course, a heartfelt thank you to my incredible wife for her inspiration and for managing the fort while I was out playing.
 
-I am looking forward to other opportunities to play and conquer! Maybe I'll bring home enough trophies that I will need a new trophy cabinet like [Tottenham Hotspur] (https://www.facebook.com/TottenhamHotspur){:target="_blank"}. Do I get any sponsorship for a trophy cabinet?
+I am looking forward to other opportunities to play and conquer! Maybe I'll bring home enough trophies that I will need a new trophy cabinet like [Tottenham Hotspur](https://www.facebook.com/TottenhamHotspur){:target="_blank"}. Do I get any sponsorship for a trophy cabinet?
 
 ## Photo Highlights
 ![Men's Single Game](/images/Badminton/MN Open 2025/MS.jpg)

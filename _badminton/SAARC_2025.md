@@ -19,6 +19,7 @@ Congratulations to all other winners in respective brackets. Special mention goe
 This year a handful of players from [Bangladesh Athletic Club - Twin Cities](https://www.facebook.com/groups/1158535094609415){:target="_blank"} joined the tournament. Thank you all who came out of your comfort zone and made the tournament a vibrant one. The BAC bagged a handful of trophies as well.
 
 I would like to take this opportunity to thank the organizers, [Wasim Akram](https://www.facebook.com/wasim.buet){:target="_blank"}, [Oz Khan](https://www.facebook.com/khano1){:target="_blank"}, and [Furhath Arnob](https://www.facebook.com/furhath){:target="_blank"}. Also special thanks to the volunteers [Shahadat Shimul](https://www.facebook.com/shahadathossain2017){:target="_blank"} and [Tanbeer Ahmed](https://www.facebook.com/tanbeer.ahmed.7){:target="_blank"} for their contribution in managing the matches well. Heartfelt thanks to our local designer [Nusrat Sharmin](https://www.facebook.com/NusratSharminKhan21){:target="_blank"} for well crafted jerseys.
+
 I am dedicating all the trophies of this year to my sons. Nonetheless, nothing would have been possible without tremendous help from my lovely wife! Thank you.
 
 ## Photo Highlights
