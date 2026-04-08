@@ -1,5 +1,5 @@
 ---
-title: "Minnesota SAARC Open 2025"
+title: "Minnesota Open 2025"
 date: 2025-09-01
 excerpt: "Tournament summary, performance notes, and media gallery."
 card_type: photo
