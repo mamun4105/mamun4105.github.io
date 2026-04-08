@@ -9,9 +9,9 @@ IUCN (2024). "[Agriculture and conservation: Living nature in a globalised world
 
 **Mamun, S.**, Nelson, E. and Nolte, C., 2024. "[Estimating the impact of critical-habitat designation on the values of developed and undeveloped parcels](https://doi.org/10.3368/le.100.1.101922-0081R){:target="_blank"}." Land Economics, 100(1), pp.148-175.
 
-Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C., Guignet, D., Hennighausen, H., Kushner, I., Liao, Y., **Mamun, S.**, Pollack, A. and Richardson, J., 2024. "[Data practices for studying the impacts of environmental amenities and hazards with nationwide property data](https://doi.org/10.3389/fenvs.2024.1392584){:target="_blank"}." Land Economics, 100(1), pp.200-221.
+Nolte, C., Boyle, K.J., Chaudhry, A.M., Clapp, C., Guignet, D., Hennighausen, H., Kushner, I., Liao, Y., **Mamun, S.**, Pollack, A. and Richardson, J., 2024. "[Data practices for studying the impacts of environmental amenities and hazards with nationwide property data](https://doi.org/10.3368/le.100.1.102122-0090R){:target="_blank"}." Land Economics, 100(1), pp.200-221.
 
-<!-- Swedberg, K., Cardoso, D.S., Castillo-Castillo, A., **Mamun, S.**, Boyle, K.J., Nolte, C., Papenfus, M. and Polasky, S., 2024. "[Spatial heterogeneity in hedonic price effects for lake water quality](https://doi.org/10.3389/fenvs.2024.1392584){:target="_blank"}." Land Economics, 100(1), pp.89-108. -->
+<!-- Swedberg, K., Cardoso, D.S., Castillo-Castillo, A., **Mamun, S.**, Boyle, K.J., Nolte, C., Papenfus, M. and Polasky, S., 2024. "[Spatial heterogeneity in hedonic price effects for lake water quality](https://doi.org/10.3368/le.100.1.102122-0086R){:target="_blank"}." Land Economics, 100(1), pp.89-108. -->
 
 **Mamun, S.**, Castillo-Castillo, A., Swedberg, K., Zhang, J., Boyle, K.J., Cardoso, D., Kling, C.L., Nolte, C., Papenfus, M., Phaneuf, D. and Polasky, S., 2023. "[Valuing water quality in the United States using a national dataset on property values](https://doi.org/10.1073/pnas.2210417120){:target="_blank"}." Proceedings of the National Academy of Sciences, 120(15), p.e2210417120.
 
