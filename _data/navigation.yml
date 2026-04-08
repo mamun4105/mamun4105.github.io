@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Current Research"
-    url: /research_blog/
+  # - title: "Current Research"
+  #   url: /research_blog/
     
   - title: "Publications"
     url: /publications/
