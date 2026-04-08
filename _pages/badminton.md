@@ -1,5 +1,5 @@
 ---
-title: "Badminton"
+title: "Badminton Tournaments"
 permalink: /badminton/
 author_profile: true
 ---
