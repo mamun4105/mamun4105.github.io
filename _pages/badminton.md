@@ -7,9 +7,15 @@ author_profile: true
 <style>
 .badminton-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1rem;
   margin-top: 1rem;
+}
+
+@media (min-width: 800px) {
+  .badminton-gallery {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 .badminton-card {
   border: 1px solid #e5e7eb;
